@@ -1,3 +1,4 @@
+YDNEWS
 Tuyul Coin YDNews
 (Delay=0, C9 Support, Cepat dan Aman, menggunakan SGB Code)
 
