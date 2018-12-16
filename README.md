@@ -1,4 +1,3 @@
-#SGBShare
 Tuyul Coin YDNews
 (Delay=0, C9 Support, Cepat dan Aman, menggunakan SGB Code)
 
@@ -10,11 +9,11 @@ Link script: https://github.com/ficopang/ydnews
 Jalanin di xampp atau termux atau c9
 
 Tutor get tk, token, uuid:
-metode SSL Capture:
+A. Metode SSL Capture:
 1. Buka apknya, daftar/login
 2. Buka ssl capture atau semacamnya klik play
 3. buka apknya cari yang kek di ss
-metode tanpa SSL Capture:
+B. Metode tanpa SSL Capture:
 1. Buka apknya, daftar/login
 2. ke pojok kanan (me), pencet quick invite tips, pencet invite friends to earn more (paling bawah),
 3. Invite friend now (paling bawah), terus copy link dan paste ke note atau sejenisnya untuk mendapat token dan uuid
@@ -23,8 +22,8 @@ Tutorial Termux:
 pkg install php
 pkg install git
 git clone https://github.com/ficopang/ydnews
-cd YogoVideo
-php yogo.php
+cd ydnews
+php ydnews.php
 
 Tutorial C9:
 sudo apt-get update
